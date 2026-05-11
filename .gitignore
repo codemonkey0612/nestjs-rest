@@ -36,3 +36,5 @@ lerna-debug.log*
 .env
 .metals
 .vscode
+temp_auto_push.bat
+temp_interactive_push.bat
